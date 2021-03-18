@@ -16,7 +16,7 @@
      { name: 'flite', items: ["flite-toggletracking", "flite-toggleshow", "flite-acceptall", "flite-rejectall", "flite-acceptone", "flite-rejectone"] },
      { name: 'deletebutton', items: ['deletebutton'] }
     ];
-     config.extraPlugins = 'flite,autogrow,wordcount';
+     config.extraPlugins = 'flite';
      config.removePlugins =
       'elementspath,magicline,contextmenu,liststyle,tabletools,tableselection,colordialog';
   };
